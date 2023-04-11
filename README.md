@@ -10,13 +10,12 @@
 - 👯 I’m open to collaborate on Software/Web projects
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Programming
-- 📫 How to reach me: Just Google me out <br/>
-- 
+- 📫 How to reach me: Just Google me out 
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: Programming is only 40%, rest 60% is Debugging😜
 <!-- ![react](https://www.flaticon.com/free-icon/react_1183672?term=react&page=1&position=2&origin=search&related_id=1183672)
 ![javascript](https://www.flaticon.com/free-icon/js_5968292?term=js+logo&page=1&position=1&origin=search&related_id=5968292)
 ![php](https://www.flaticon.com/free-icon/php_5968332?term=php&page=1&position=2&origin=search&related_id=5968332) -->
-<!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Programming is only 30%, rest is debugging
 
 
 
