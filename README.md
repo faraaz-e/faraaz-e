@@ -36,9 +36,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=faraaz-e&theme=nightowl&hide_border=true) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz-e&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=faraaz-e&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=faraaz-e&theme=radical&hide_border=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz-e&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=faraaz-e&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=faraaz-e&theme=radical&no-frame=true&no-bg=false&margin-w=4)
