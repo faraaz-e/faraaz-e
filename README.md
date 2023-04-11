@@ -36,8 +36,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=faraaz-e&theme=dark&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api?username=faraaz-e&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz-e&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=faraaz-e&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=faraaz-e&theme=radical&no-frame=false&no-bg=true&margin-w=4)
