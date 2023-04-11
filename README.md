@@ -8,11 +8,11 @@
 - 🔭 I’m currently working on Javascript Technologies
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m open to collaborate on Software/Web projects
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Programming
-- 📫 How to reach me: Just Google me out 
+- 🤔 I’m looking for help with Data structures and algo
+- 💬 Ask me about Tech/Programming
+- 📫 How to reach me: Just Google me 😎
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: Programming is only 40%, rest 60% is Debugging😜
+- ⚡ Fun fact: Programming is only 40%, rest 60% is Debugging 😜
 <!-- ![react](https://www.flaticon.com/free-icon/react_1183672?term=react&page=1&position=2&origin=search&related_id=1183672)
 ![javascript](https://www.flaticon.com/free-icon/js_5968292?term=js+logo&page=1&position=1&origin=search&related_id=5968292)
 ![php](https://www.flaticon.com/free-icon/php_5968332?term=php&page=1&position=2&origin=search&related_id=5968332) -->
