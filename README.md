@@ -17,8 +17,6 @@
 ![javascript](https://www.flaticon.com/free-icon/js_5968292?term=js+logo&page=1&position=1&origin=search&related_id=5968292)
 ![php](https://www.flaticon.com/free-icon/php_5968332?term=php&page=1&position=2&origin=search&related_id=5968332) -->
 
-
-
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
