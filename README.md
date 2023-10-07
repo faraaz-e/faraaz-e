@@ -17,7 +17,7 @@
 ![javascript](https://www.flaticon.com/free-icon/js_5968292?term=js+logo&page=1&position=1&origin=search&related_id=5968292)
 ![php](https://www.flaticon.com/free-icon/php_5968332?term=php&page=1&position=2&origin=search&related_id=5968332) -->
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
@@ -34,18 +34,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=faraaz-e&theme=radical&hide_border=true) 
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=faraaz-e&theme=react&hide_border=true&include_all_commits=true&count_private=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faraaz-e&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=faraaz-e&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=faraaz-e&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=faraaz-e&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=faraaz-e&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=faraaz-e&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
