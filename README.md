@@ -34,7 +34,7 @@ I am a 👨🏻‍💻 **Full Stack Developer**. Passionate About Crafting User-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
 
-### 💻 Currently working with:
+### 💻 Working in:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript logo"  />
   <img width="12" />
@@ -53,7 +53,7 @@ I am a 👨🏻‍💻 **Full Stack Developer**. Passionate About Crafting User-
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
 </div>
 
-### 💻 Also have Experience with:
+### 💻 Formerly used:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
   <img width="12" />
