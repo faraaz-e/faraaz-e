@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Javascript Technologies
-- 🌱 I’m currently learning React.js & Next.js
+- 🌱 I’m currently learning React & Next.js
 - 👯 I’m open to collaborate on Software/Web projects
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about Tech/Programming
