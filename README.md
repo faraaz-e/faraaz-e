@@ -5,15 +5,15 @@
 
 <!-- Here are some ideas to get you started: -->
 I am a Full Stack Developer 👨🏻‍💻  
-Passionate About Crafting User-Centric Solutions for Diverse Needs 🛠️🌍🔍
+Passionate About Crafting User-Centric Solutions for Diverse Needs 🛠️🌍🔍  
 
 <!-- - 🔭 I’m currently working on Javascript Technologies
 - 🌱 I’m currently learning React & Next.js -->
-👯 I’m open to collaborate on Software/Web projects
-🤔 I’m looking for help with Data Structures and Algorithms
+👯 I’m open to collaborate on Software/Web projects  
+🤔 I’m looking for help with Data Structures and Algorithms  
 <!-- 💬 Ask me about Tech/Programming -->
-📫 How to reach me: Just Google me 😎
-⚡ Fun fact: Programming is only 40%, rest 60% is Debugging 😜
+📫 How to reach me: Just Google me 😎  
+⚡ Fun fact: Programming is only 40%, rest 60% is Debugging 😜  
 <!-- - 😄 Pronouns: ... -->
 
 <!-- ## 💻 Tech Stack:
