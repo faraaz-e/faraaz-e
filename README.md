@@ -46,7 +46,7 @@ I am a 👨🏻‍💻 **Full Stack Developer**. Passionate About Crafting User-
   <img width="12" />
   <a href="" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  /></a>
   <img width="12" />
-  <a href="" title="Tailwind CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35" alt="tailwindcss logo"  /></a>
+  <a href="" title="Tailwind CSS"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  /></a>
   <img width="12" />
   <a href="" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  /></a>
   <img width="12" />
