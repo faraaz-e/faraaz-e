@@ -36,21 +36,21 @@ I am a 👨🏻‍💻 **Full Stack Developer**. Passionate About Crafting User-
 
 ### 💻 Working in:
 <div align="left">
-  <a href="" title="Javascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript logo"  /></a>
+  <a href="" title="Javascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="34" alt="javascript logo"  /></a>
   <img width="12" />
-  <a href="" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  /></a>
+  <a href="" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" height="34" alt="nextjs logo"  /></a>
   <img width="12" />
-  <a href="" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  /></a>
+  <a href="" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="react logo"  /></a>
   <img width="12" />
-  <a href="" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  /></a>
+  <a href="" title="Express.js"><img src="https://skillicons.dev/icons?i=express" height="34" alt="express logo"  /></a>
   <img width="12" />
-  <a href="" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  /></a>
+  <a href="" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="nodejs logo"  /></a>
   <img width="12" />
-  <a href="" title="Tailwind CSS"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  /></a>
+  <a href="" title="Tailwind CSS"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="34" alt="tailwindcss logo"  /></a>
   <img width="12" />
-  <a href="" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  /></a>
+  <a href="" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="34" alt="mongodb logo"  /></a>
   <img width="12" />
-  <a href="" title="Github"><img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  /></a>
+  <a href="" title="Github"><img src="https://skillicons.dev/icons?i=github" height="34" alt="github logo"  /></a>
 </div>
 
 ### 💻 Formerly used:
